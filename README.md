@@ -259,7 +259,7 @@ What is emergency leave policy?
 
 ---
 
-# Screenshots
+# Output
 
 ## Main Chat Interface
 
@@ -269,7 +269,7 @@ What is emergency leave policy?
 
 ## Company data
 
-![Source Retrieval](pdf.png)
+![Source Retrieval](pdfdata.png)
 
 ---
 
